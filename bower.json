@@ -1,0 +1,32 @@
+{
+  "name": "tianshop",
+  "description": "网上商城例子",
+  "main": "index.js",
+  "authors": [
+    "tian"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "shop",
+    "tian",
+    "node",
+    "express",
+    "bower"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower": "*",
+    "install": "^1.0.4",
+    "vue": "^2.3.2",
+    "bootstrap": "^3.3.7"
+  }
+}

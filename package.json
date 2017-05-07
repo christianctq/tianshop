@@ -1,0 +1,29 @@
+{
+  "name": "tianshop",
+  "version": "1.0.0",
+  "description": "网上商城例子",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianctq/tianshop.git"
+  },
+  "keywords": [
+    "shop",
+    "tian",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christianctq/tianshop/issues"
+  },
+  "homepage": "https://github.com/christianctq/tianshop#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
