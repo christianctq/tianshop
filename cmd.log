@@ -1,0 +1,10 @@
+d:
+cd tianShop
+bower init
+bower install bootstrap
+doskey /history >>
+doskey /history >>cmd.log
+npm install express --save
+git init
+doskey /history >>cmd.log
+
